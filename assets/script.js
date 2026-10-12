@@ -15,8 +15,8 @@ document.addEventListener('DOMContentLoaded', () => {
     update(); setInterval(update, 1000);
   }
   document.querySelectorAll('[data-copy]').forEach(button => button.addEventListener('click', async () => {
-    try { await navigator.clipboard.writeText(button.dataset.copy); button.textContent = 'Number copied ✓'; }
-    catch { window.prompt('Copy the official MoMo number:', button.dataset.copy); }
+    try { await navigator.clipboard.writeText(button.dataset.copy); button.textContent = button.classList.contains('copy-detail') ? 'Copied ✓' : 'Number copied ✓'; }
+    catch { window.prompt('Copy this detail:', button.dataset.copy); }
   }));
   const share = document.querySelector('[data-share]');
   if (share) share.addEventListener('click', async () => {
