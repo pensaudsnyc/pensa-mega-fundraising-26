@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Illustration of a microphone with sound waves"><defs><linearGradient id="g4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1a52"/><stop offset="1" stop-color="#14309b"/></linearGradient></defs><rect width="400" height="300" fill="url(#g4)"/><circle cx="335" cy="45" r="95" fill="#ffc20e" opacity=".16"/><circle cx="50" cy="285" r="80" fill="#ffc20e" opacity=".12"/><g fill="none" stroke="#ffc20e" stroke-width="7" stroke-linecap="round"><path d="M118 74 A 62 62 0 0 0 118 150"/><path d="M92 54 A 92 92 0 0 0 92 170" opacity=".6"/><path d="M282 74 A 62 62 0 0 1 282 150"/><path d="M308 54 A 92 92 0 0 1 308 170" opacity=".6"/></g>
-<rect x="190" y="170" width="20" height="92" rx="6" fill="#c3cdf2"/>
-<ellipse cx="200" cy="270" rx="58" ry="12" fill="#c3cdf2"/>
-<path d="M172 150 L228 150 L216 176 L184 176 Z" fill="#ffc20e"/>
-<rect x="172" y="140" width="56" height="16" rx="4" fill="#ffe08a"/>
-<circle cx="200" cy="100" r="46" fill="#e8ecfa"/>
-<g stroke="#9aa6d6" stroke-width="3"><line x1="164" y1="86" x2="236" y2="86"/><line x1="160" y1="102" x2="240" y2="102"/><line x1="164" y1="118" x2="236" y2="118"/><line x1="176" y1="70" x2="176" y2="134"/><line x1="200" y1="56" x2="200" y2="144"/><line x1="224" y1="70" x2="224" y2="134"/></g>
-<circle cx="200" cy="100" r="46" fill="none" stroke="#ffc20e" stroke-width="5"/></svg>
