@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Illustration of a drum kit"><defs><linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f2a8a"/><stop offset="1" stop-color="#14309b"/></linearGradient></defs><rect width="400" height="300" fill="url(#g3)"/><circle cx="335" cy="45" r="95" fill="#ffc20e" opacity=".16"/><circle cx="50" cy="285" r="80" fill="#ffc20e" opacity=".12"/><g stroke="#c3cdf2" stroke-width="4"><line x1="68" y1="78" x2="68" y2="250"/><line x1="336" y1="62" x2="336" y2="250"/></g>
+<ellipse cx="68" cy="78" rx="48" ry="9" fill="#ffc20e"/><ellipse cx="336" cy="62" rx="52" ry="10" fill="#ffc20e"/>
+<ellipse cx="68" cy="75" rx="48" ry="7" fill="#ffe08a"/><ellipse cx="336" cy="59" rx="52" ry="8" fill="#ffe08a"/>
+<g><rect x="108" y="112" width="76" height="46" rx="6" fill="#fff"/><ellipse cx="146" cy="112" rx="38" ry="11" fill="#e8ecfa" stroke="#ffc20e" stroke-width="3"/><rect x="108" y="128" width="76" height="6" fill="#ffc20e"/></g>
+<g><rect x="216" y="112" width="76" height="46" rx="6" fill="#fff"/><ellipse cx="254" cy="112" rx="38" ry="11" fill="#e8ecfa" stroke="#ffc20e" stroke-width="3"/><rect x="216" y="128" width="76" height="6" fill="#ffc20e"/></g>
+<circle cx="200" cy="208" r="72" fill="#0a1a52" stroke="#ffc20e" stroke-width="9"/><circle cx="200" cy="208" r="56" fill="#14309b"/>
+<circle cx="200" cy="208" r="20" fill="#ffc20e"/><circle cx="200" cy="208" r="9" fill="#0a1a52"/>
+<g fill="#ffc20e"><circle cx="200" cy="138" r="4"/><circle cx="270" cy="208" r="4"/><circle cx="130" cy="208" r="4"/></g>
+<g stroke="#ffe08a" stroke-width="4" stroke-linecap="round"><line x1="300" y1="262" x2="352" y2="236"/><line x1="48" y1="262" x2="100" y2="236"/></g></svg>

@@ -13,10 +13,22 @@ A static, responsive campaign website built with HTML, CSS and JavaScript. It in
 Official GitHub guide: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
 ## Before sharing publicly
-- Replace the stylised “P” mark with the official PENSA UDS-NYC logo when the logo file is supplied.
+- The logo in `assets/pensa-logo.png` was cropped from the official flyer; replace it with the original logo file if you have one.
 - Confirm that the MoMo recipient name and number are correct and authorised for public display.
 - Add official social links when available.
 - The progress section intentionally does **not** show an invented amount raised. A static site cannot securely maintain a live total or an organiser-only dashboard.
 
 ## Static-site limitations
 This version does not process online payments, securely store contribution records, or include an admin dashboard. Do not add private credentials, MoMo PINs, payment secrets, or contributor lists to this repository. A later secure dashboard requires a backend/database. GitHub Pages publishes the site's files publicly, even when certain repository privacy configurations are available.
+
+## Updating the progress bar and pledge link
+Edit only `assets/campaign.json`:
+- `raised`: confirmed amount in GH₵ (numbers only, e.g. `12500`)
+- `goal`: target in GH₵ (currently `50000`)
+- `updated`: text shown as "Last updated", e.g. `"13 Oct 2026, 6:00 PM"`
+- `pledgeForm`: the Google Form link. While empty, the pledge button and pledge FAQ stay hidden.
+
+On GitHub: open the file, click the pencil icon, edit, then **Commit changes**. The site refreshes within a few minutes.
+
+## Instrument images
+The four images in `assets/instruments/` are illustrations. To use real photos, upload them to the same folder and change the file names in the `sound-section` of `index.html`.
