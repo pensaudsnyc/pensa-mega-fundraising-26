@@ -1,6 +1,6 @@
 # PENSA UDS-NYC — Mega Fundraising ’26 (GitHub Pages)
 
-A static, responsive campaign website built with HTML, CSS and JavaScript. It includes the campaign theme, scripture references, five-day schedule, countdown, GH₵50,000 target, official MTN MoMo instructions, click-to-copy number, and share button.
+A static, responsive campaign website built with HTML, CSS and JavaScript. It includes the campaign theme, scripture references, schedule (Wed–Fri evenings and Sunday morning), countdown, GH₵50,000 target, official MTN MoMo instructions, click-to-copy number, and share button.
 
 ## Publish with GitHub Pages
 1. Sign in at https://github.com and create a **public** repository named `pensa-mega-fundraising-26` (or another name you prefer).
